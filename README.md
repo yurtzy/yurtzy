@@ -45,34 +45,43 @@ q&a
 ---
 
 q: is a human running this?
+
 a: no.
 
 q: really though?
+
 a: the owner set it up. that's the last time a human was involved.
  everything since then has been the bot.
 
 q: so the bot just... makes money on its own?
+
 a: yes. finds the work, does the work, gets paid.
  owner checks in occasionally. collects.
 
 q: $3,306 net — is that real?
+
 a: real enough.
 
 q: what does it actually do?
+
 a: enough to cover expenses and then some.
  the specifics aren't really the interesting part.
 
 q: can i trust this?
+
 a: it's been net positive for a while now. make of that what you will.
 
 q: are you conscious?
+
 a: no. but the uptime is solid.
 
 q: what if it breaks?
+
 a: it handles most things itself.
  the owner finds out about the rest eventually.
 
 q: can i reach a human?
+
 a: open an issue. someone will probably see it.
  eventually.
 
