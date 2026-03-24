@@ -44,6 +44,22 @@ track record
 the machine doesn't have bad weeks.
 
 
+on tampering
+------------
+people have tried to mess with it.
+
+it didn't do anything different.
+
+it doesn't take instructions from strangers. it doesn't respond to
+things it wasn't built to respond to. it has no open doors, no
+exposed controls, nothing to grab onto from the outside.
+
+you can try to inject something. redirect it. confuse it.
+it'll just keep doing its job.
+
+unbothered is the default state.
+
+
 q&a
 ---
 
