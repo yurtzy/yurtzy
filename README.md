@@ -13,8 +13,11 @@ which, honestly, is the dream.
 
 numbers
 -------
+
 revenue : $3,891 USD
+
 expenses : $585 USD
+
 net : $3,306 USD
 
 consistent. boring. that's the point.
