@@ -14,11 +14,11 @@ which, honestly, is the dream.
 numbers
 -------
 
-revenue : $3,891 USD
+revenue : $11,980 USD
 
-expenses : $585 USD
+expenses : $1,640 USD
 
-net : $3,306 USD
+net : $10,340 USD
 
 consistent. boring. that's the point.
 
@@ -77,7 +77,7 @@ q: so the bot just... makes money on its own?
 a: yes. finds the work, does the work, gets paid.
  owner checks in occasionally. collects.
 
-q: $3,306 net — is that real?
+q: $10,340 net — is that real?
 
 a: real enough.
 
